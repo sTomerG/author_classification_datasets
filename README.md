@@ -16,4 +16,4 @@ CADS: Collaborative Album Data Set
 
 DADS: Diverse Artist Data Set
 
-GBDS: Gender Based DAta Set
+GBDS: Gender Based Data Set
